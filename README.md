@@ -7,6 +7,3 @@
 * [Pau Matas](https://github.com/PauMatas)
 * [Tomás Gadea](https://github.com/TomasGadea)
 
-## Results:
-
-* [First aproach](./audios/output.wav)
