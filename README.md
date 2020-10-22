@@ -1,9 +1,12 @@
-# notebook_vocoder
-Jupyter Notebook per la pràctica de SIS (Vocoder)
+# Signal Processing with Python
 
-## Grup:
+## Authors
 
-* Martí
-* Jofre
-* Pau
-* Tomás
+* [Martí Cortada](https://github.com/MartiCortada)
+* [Jofre Poch](https://github.com/jofre444)
+* [Pau Matas](https://github.com/PauMatas)
+* [Tomás Gadea](https://github.com/TomasGadea)
+
+## Results:
+
+* [First aproach](./audios/output.wav)
